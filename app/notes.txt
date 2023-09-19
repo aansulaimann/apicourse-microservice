@@ -1,0 +1,10 @@
+buat file helpers.php
+<!-- setelah itu daftarkan di composer.json -->
+<!-- di bagian auloload -->
+<!-- 
+    "files": [
+            "app/helpers.php"
+        ]
+-->
+
+<!-- setelah itu matikan server dan jalankan composer dump-autoload -->
